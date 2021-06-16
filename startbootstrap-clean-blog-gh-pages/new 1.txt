@@ -1,0 +1,7 @@
+Accieul /
+Dtail /post/id
+
+About /about
+contact /contact
+
+
