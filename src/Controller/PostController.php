@@ -15,8 +15,8 @@ class PostController extends AbstractController
     {
         return $this->render('post/posts.html.twig', [
             'post' => [
-                'title' => 'Le titre de l\'article',
-                'content' => 'Le contenu de notre article',
+                'title' => 'La liste des articles',
+                'content' => 'Contenu par défaut',
             ],
             'bg_image' => 'home-bg.jpg',
         ]);
